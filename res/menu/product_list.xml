@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/show_cart"
+        android:actionLayout="@layout/adapter_badge_layout"
+        android:icon="@drawable/cart"
+        android:showAsAction="ifRoom"
+        android:title="@string/shopping_cart"/>
+
+</menu>

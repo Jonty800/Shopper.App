@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shopper</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="categories">
+        <item>Books</item>
+        <item>Films</item>
+        <item>Music</item>
+        <item>Games</item>
+    </string-array>
+    <string-array name="categoryicons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/books</item>
+        <item>@drawable/films</item>
+        <item>@drawable/music</item>
+        <item>@drawable/games</item>
+        <item>@drawable/cart</item>
+    </string-array>
+    <string-array name="currency_array">
+        <item>Select your currency</item>
+        <item>British Pounds (£)</item>
+        <item>Euros (€)</item>
+        <item>U.S Dollars ($)</item>
+    </string-array>
+
+    <string name="title_activity_product">Products</string>
+    <string name="welcome">Welcome to Shopper.net!</string>
+    <string name="price_label">Price:</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="product_cover_desc">Product cover</string>
+    <string name="select_currency">Select Your Currency Below:</string>
+    <string name="go_">Go ></string>
+    <string name="drawer_open">Open menu</string>
+    <string name="drawer_close">Close menu</string>
+    <string name="slider_desc">Test</string>
+    <string name="slider_basket_num">Test</string>
+
+</resources>
